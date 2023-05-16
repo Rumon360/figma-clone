@@ -6,7 +6,7 @@ const SectionThree = () => {
     >
       <div className="grid grid-cols-1 md:grid-cols-3 items-center gap-[0rem]">
         <div className="relative md:col-span-2 items-start">
-          <div className="w-[90%] relative mx-auto md:w-full h-full pointer-events-none block overflow-hidden">
+          <div className="w-[100%] relative mx-auto md:w-full h-full pointer-events-none block overflow-hidden">
             <video
               preload="auto"
               playsInline

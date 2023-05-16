@@ -6,7 +6,7 @@ const SectionFour = () => {
     >
       <div className="grid grid-cols-1 md:grid-cols-3 items-center gap-[0rem]">
         <div className="relative md:col-span-2 order-first md:translate-x-[12rem] md:order-last">
-          <div className="w-[95%] relative mx-auto md:w-full h-full pointer-events-none block">
+          <div className="w-[100%] relative mx-auto md:w-full h-full pointer-events-none block">
             <video
               preload="auto"
               playsInline
